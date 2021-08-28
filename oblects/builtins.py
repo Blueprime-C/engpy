@@ -1,0 +1,1 @@
+from oblects.builtins import _isinstance as isinstance

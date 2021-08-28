@@ -1,0 +1,10 @@
+Version 1.1:
+    Added
+        Functions:
+            power_list
+            factorize
+            equate
+            common
+            replace
+            ppowers
+            figure
